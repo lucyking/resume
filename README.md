@@ -34,6 +34,6 @@
 #### 简介 ####
 - 对Linux感兴趣 
 - 具有5年Linux OS使用经验
-- 具备较强的开发和编程能力 
+- 具备较强的[开发和编程能力](https://github.com/lucyking?tab=repositories)
 - 热衷开源 [参加Firefox官方手册翻译](https://github.com/MozillaChina/firefoxos-quick-guide)
 - 兴趣广泛 象棋 摄影 路由破解  
