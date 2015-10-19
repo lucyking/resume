@@ -8,8 +8,8 @@
 - Tel:
 	- 13738020604
 - QQ:
-  - 1097976709
-
+  - 1097976709  
+  
 #### 学历 ####
 - 本科 杭州电子科技大学 电子信息工程 
 - 硕士 杭州电子科技大学 计算机科学与技术
@@ -24,12 +24,12 @@
 - Shell Script
 - Linux System C
 - Linux Kernel 编译
-- Linux Device Drive 修改与移植
-- Github 代码检索与移植 
-- Git SVN版本控制   
+- Linux Device Drive 
 - GNU/make项目管理
 - Aircrack-ng 无线网络安全审计
 - oclHashcat+ 显卡并行哈希破译
+
+#### ####
 
 #### 简介 ####
 - 对Linux感兴趣 
