@@ -11,7 +11,7 @@
 - 2015华为软件精英赛杭厦赛区32强
 - 2016华为软件精英赛杭厦赛区64强
 
-####能力####
+#### 能力 #####
 - Shell Script
 - Python / PyPI
 - Java / Android / AOSP
@@ -24,23 +24,39 @@
 #### 实习 ####
 网易自动化测试开发 2015.11~2016.7
 
-- Jenkins / Travis CI
-- Appium / Selenium2
-- RobotFramework
-- Netease aircv / AutoamtorX
-- 应用开源项目 积极推PR (Merged):
-- **Appium** (3891)
-    - #1 : https://github.com/appium/appium/pull/6283
-    - #2 : https://github.com/appium/appium/pull/5987
-- **RobotFramework-appiumlibrary** (86)
-    - #1 : https://github.com/jollychang/robotframework-appiumlibrary/pull/81
+- Jenkins / Travis CI  **持续集成**
+- Appium / Selenium2   **App/Web端自动化测试**
+- RobotFramework **自动化测试框架**
+- Netease aircv / AutoamtorX **计算机视觉分析与处理**
 
-#### 简介 ####
+#### 项目经验
+- **RobotFramework自动化测试框架** ```2015.11.01~2016.08.05```  
+	- 搭建自动化测试框架，实现测试用例**自动化执行**。
+	- 移植**OpenCV**至RobotFramework：
+		- 解决WebView等部分元素无法定位问题，使测试用例可以实现基于**计算机视觉**的点击操作。	
+	- 积极提交lib补丁，官方已接受补丁如下：
+		- **Appium** (3900+ stars)
+		    - #1 : https://github.com/appium/appium/pull/6283
+		    - #2 : https://github.com/appium/appium/pull/5987
+		- **RobotFramework-appiumlibrary** (90+ stars)
+		    - #1 : https://github.com/jollychang/robotframework-appiumlibrary/pull/81  <br><br>
+- **持续集成**  ```2015.11.01~2016.07.01```
+	- 在自动化测试中应用Jenkins CI，实现**定时**、**代码提交**等事件触发用例自动执行。
+	- 将RobotFramwork Library迁移到github，利用**Travis CI**实现**pypi**版本自动发布。	<br><br>
+- **Android Grid设备集群**  ```2015.12.01~2016.03.01```   
+	- 以Linux OS为基础，搭建Android Devices Grid,解决测试资源紧缺问题。
+	- 测试人员可以通过协议远程访问Hub上的注册设备，提高设备利用率。<br><br>
+- **基于Android的远程监控应用**  ```2013.10.01~2014.03.15```
+	- 在Android应用端访问GPS设备，获取经纬数据，以SMS的形式推送到指定监视人手机。
+	- 具有定时（以月，天，小时，分钟为单位）发送功能。广泛应用于儿童监护，工程车辆定位等场景。<br><br> 
+- **基于GPU集群和Hashcat的哈希值高速计算和碰撞破解**  ```2012.06.30~2012.08.15```
+	- 显卡集群并行计算，可获得80~120倍于单CPU的计算能力。
+	- 利用GPU并行能力，批量计算字典的hash值，实现**WPA/WPA2**等弱口令密码爆破。 
 
-- 本科毕业设计：基于安卓的GPS远程监控
+#### More Details ####
 - 5年以上Linux OS操作经验
-    - 已通过**CompTIA Linux+** exam301 
+    - 已获得**CompTIA Linux+**证书 
 - 具备较强的开发和编程能力 热衷开源 
 - 参加Firefox官方手册翻译
     - https://github.com/MozillaChina/firefoxos-quick-guide
-- 兴趣广泛 象棋 摄影
+- 兴趣广泛 电子设备 象棋 摄影 骑行 篮球 豆瓣 奇闻异录 中古收藏 
